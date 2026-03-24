@@ -72,4 +72,4 @@ var idosallat = allatok
     .MaxBy(a => a.Eletkor);
 
 
-Console.WriteLine($"Legidosebb alata: {idosallat}");
+Console.WriteLine($"Legidosebb allata: {idosallat}");
